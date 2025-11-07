@@ -90,7 +90,9 @@
     "aspect": "fixed",
     "title": "entry facility - router"
   }
-  
+]</mxlibrary>
+
+<mxlibrary>[
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=3;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"triangle;whiteSpace=wrap;html=1;flipH=1;flipV=1;direction=south;fillColor=light-dark(#000000,#000000);\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"30\" y=\"10\" width=\"60\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
